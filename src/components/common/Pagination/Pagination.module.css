@@ -1,0 +1,20 @@
+.selectedPage{
+  font-weight: 700;
+  color: blue;
+}
+.pagination{
+  margin-bottom: 10px;
+}
+.pagination span{
+  display: inline-block;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.pageNumber{
+  padding: 2px;
+  border: 1px solid green;
+}
+.pageNumber.selectedPage{
+  font-weight: 700;
+  border-color: black;
+}

@@ -1,0 +1,17 @@
+.header{
+    grid-area: h;
+    background-color: #34495E;
+    padding-left: 10px;
+}
+.header img{
+    width: 80px;
+    border-radius: 50%;
+}
+.login{
+    float: right;
+    padding-top: 25px;
+    padding-right: 15px;
+}
+.login a{
+    color: white;
+}

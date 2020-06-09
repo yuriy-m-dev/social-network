@@ -1,0 +1,15 @@
+.user{
+    width: 130px;
+}
+.descriptionBlock{
+    padding: 10px;
+}
+.profileImage{
+    width: 100%;
+    height: 300px;
+}
+.profileImage img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

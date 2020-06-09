@@ -1,0 +1,16 @@
+.nav{
+  grid-area: n;
+  background-color: #e8e8e8;
+  padding: 20px;
+}
+.item{
+  margin-bottom: 5px;
+}
+.item a{
+  color: #000000;
+  text-decoration: none;
+  font-size: 18px;
+}
+.item a.active{
+  color: darkred;
+}

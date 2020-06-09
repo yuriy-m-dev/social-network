@@ -1,0 +1,52 @@
+.wrapper{
+    padding: 20px;
+}
+.title{
+    margin: 0 0 30px 0;
+}
+.userWrapper{
+    max-width: 800px;
+    width: 100%;
+    display: flex;
+    margin-bottom: 20px;
+}
+.userBlock{
+    width: 80px;
+    text-align: center;
+    margin-right: 10px;
+}
+.userBlock img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 10px;
+}
+.userBlock button{
+    background-color: lawngreen;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    min-width: 65px;
+}
+.userInfoBlock{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.holder{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.location{
+    display: flex;
+    flex-direction: column;
+}
+.country{
+    margin-bottom: 10px;
+}
